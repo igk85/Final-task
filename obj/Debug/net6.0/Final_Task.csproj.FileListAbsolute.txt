@@ -1,0 +1,15 @@
+F:\Git\Final_Task\bin\Debug\net6.0\Final_Task.exe
+F:\Git\Final_Task\bin\Debug\net6.0\Final_Task.deps.json
+F:\Git\Final_Task\bin\Debug\net6.0\Final_Task.runtimeconfig.json
+F:\Git\Final_Task\bin\Debug\net6.0\Final_Task.dll
+F:\Git\Final_Task\bin\Debug\net6.0\Final_Task.pdb
+F:\Git\Final_Task\obj\Debug\net6.0\Final_Task.csproj.AssemblyReference.cache
+F:\Git\Final_Task\obj\Debug\net6.0\Final_Task.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git\Final_Task\obj\Debug\net6.0\Final_Task.AssemblyInfoInputs.cache
+F:\Git\Final_Task\obj\Debug\net6.0\Final_Task.AssemblyInfo.cs
+F:\Git\Final_Task\obj\Debug\net6.0\Final_Task.csproj.CoreCompileInputs.cache
+F:\Git\Final_Task\obj\Debug\net6.0\Final_Task.dll
+F:\Git\Final_Task\obj\Debug\net6.0\refint\Final_Task.dll
+F:\Git\Final_Task\obj\Debug\net6.0\Final_Task.pdb
+F:\Git\Final_Task\obj\Debug\net6.0\Final_Task.genruntimeconfig.cache
+F:\Git\Final_Task\obj\Debug\net6.0\ref\Final_Task.dll
